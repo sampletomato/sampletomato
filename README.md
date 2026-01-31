@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am a  Batchelors in computer application student <br>Im a professional Graphic designer and video editor<br>with data analytics skills <br>and trying to learn coding languages like java and python
+# 👤 About Me:
+Hey there 👋  
+I’m a BCA student with a creative core and a tech-driven mindset.
+
+🎨 Professional Graphic Designer & Video Editor  
+📈 Experienced in Data Analytics  
+👨‍💻 Currently learning **Java** and **Python**
+
+I enjoy mixing creativity with code and data to build meaningful and impactful projects. Constantly learning and leveling up 🚀
+
 
 
 ## 🌐 Socials:
