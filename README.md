@@ -12,7 +12,7 @@ I am a  Batchelors in computer application student <br>Im a professional Graphic
 ![](https://nirzak-streak-stats.vercel.app/?user=sampletomato&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sampletomato&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
